@@ -6,10 +6,10 @@
 * External Mentor :  Kalyana Devulapally
 
 # Contributors:-
-* Shreya bangale: [https://github.com/Shre11yeah]
-* Aabha Lokhande:[https://github.com/gitwithaabha]
-* Sanskruti Tidke:[https://github.com/Sanskruti0208]
-* Shruti Arsode: [https://github.com/Shruti192903]
+- [**Shreya Bangale**](https://github.com/Shre11yeah)
+- [**Aabha Lokhande**](https://github.com/gitwithaabha)
+- [**Sanskruti Tidke**](https://github.com/Sanskruti0208)
+- [**Shruti Arsode**](https://github.com/Shruti192903)
 
 # Objective 
 The primary objective of this project is to develop an Edge AI-based solution that can analyze vehicle movement in and out of a college campus using data from cameras capturing vehicle photos and license plates. The solution should provide insights on vehicle movement patterns, parking occupancy, and match vehicles to an approved vehicle database.
