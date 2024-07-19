@@ -6,13 +6,11 @@
 * External Mentor :  Kalyana Devulapally
 
 # Contributors:-
+* Shreya bangale: [https://github.com/Shre11yeah]
 * Aabha Lokhande:[https://github.com/gitwithaabha]
 * Sanskruti Tidke:[https://github.com/Sanskruti0208]
 * Shruti Arsode: [https://github.com/Shruti192903]
-
-# Project-Team
-![3](https://github.com/user-attachments/assets/c7e9bd66-e785-498c-8384-b923a30ded0c)
-
+* 
 # Objective 
 The primary objective of this project is to develop an Edge AI-based solution that can analyze vehicle movement in and out of a college campus using data from cameras capturing vehicle photos and license plates. The solution should provide insights on vehicle movement patterns, parking occupancy, and match vehicles to an approved vehicle database.
 # Project Insights
@@ -47,7 +45,6 @@ Our solution is capable of processing image data in real-time and provide insigh
 Intel® Unnati: Data-Centric Labs in Emerging Technologies
 Giving Students the Intel Edge: [https://www.intel.in/content/www/in/en/corporate/unnati/overview.html]
 
-# Directory Structure 
 project/
 │
 ├── app.py
